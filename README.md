@@ -1,4 +1,4 @@
-# Developer Graduate Starter Package \[Draft\]
+# :mortar_board: Developer Graduate Starter Package \[Draft\]
 
 > TLDR; It's Covid 19 season, expect things to be more difficult than usually, we will be there to help support you, with volunteers available to guide you towards your first developer job!
 
