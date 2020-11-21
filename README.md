@@ -89,7 +89,7 @@ If you aren't the luckiest handful of people. Note that it takes on average 3 - 
 
 We are all human after all, emotional health and mental well-being matter! Is paramount for you to slowly gaining the confidence to start building your career path towards your first developer job!
 
-## :angry: Don't try to do all these at once!
+## :dizzy_face: Don't try to do all these at once!
 
 This is far the most important one. Stick to one thing, focus on it and its entirety the best you can, then move on, another thing that get you closer to getting employed.
 
