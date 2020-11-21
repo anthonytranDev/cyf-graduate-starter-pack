@@ -67,7 +67,7 @@ No. If recruiters are more concerned if you have a degree, it's because;
 
 Stop and think about it, has their ever been
 
-### :neutral_face: I don't have a computer science degree?
+### :neutral_face: I don't have a computer science degree
 
 A computer science degree or not, you all have decided to this to do this Bootcamp and a lot of people who do join come from different backgrounds anyway.
 
