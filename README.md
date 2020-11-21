@@ -17,15 +17,17 @@ Subject to ALOT of change. Needs grammar and spell checking too.
     - [I see others get a job before me](#i-see-others-get-a-job-before-me)
   - [Don't try to do all these at once!](#dont-try-to-do-all-these-at-once)
 
-## Never stop learning
+## :running: Never stop learning
 
 Your journey has just began. Best of all, you are curious as ever and will embark on many interesting, even very challenging.
 
-### CodeYourFuture offers team projects
+### :information_desk_person: CodeYourFuture offers team projects
 
 The ability for you to learn team skills won't just stop here. Luckily for you, unlike other bootcamps, you continue to get proper support, by professional developers/software engineers, across different different fields.
 
-This idea is new to your year, so you'll need to wait to hear more information, on what comes next. To be confirmed ...
+#### Graduate projects work-in-progress
+
+This idea is new to your year, so you'll need to wait to hear more information, on what comes next. So at the moment. To be confirmed ...
 
 ### Start your own projects
 
