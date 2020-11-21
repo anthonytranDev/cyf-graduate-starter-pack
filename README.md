@@ -5,7 +5,7 @@
 Subject to ALOT of change. Note this is only a guide, not an instruction set.
 
 - Needs grammar and spell checking too.
-- Some information may inaccurate - very rough draft
+- Some information may be inaccurate - very rough draft
 
 - [Developer Graduate Starter Package [Draft]](#developer-graduate-starter-package-draft)
   - [Never stop learning](#never-stop-learning)
